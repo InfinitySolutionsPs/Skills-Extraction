@@ -11,7 +11,7 @@ import re
 # 1. إعداد Gemini API
 # =========================
 
-GEMINI_API_KEY = "AQ.Ab8RN6J7Ih_DglGm5eAu0m_MoGVFJATMLvlFPBaRpd7Gdv_9VQ"
+GEMINI_API_KEY = "API_key"
 
 genai.configure(api_key=GEMINI_API_KEY)
 
@@ -219,7 +219,7 @@ import json
 import time
 import re
 
-GEMINI_API_KEY = "AQ.Ab8RN6LlAM50CeLBGotCQ5jjgL5AqkGHk07D2hY8m5hJM8j9SQ"
+GEMINI_API_KEY = "API_key"
 
 genai.configure(api_key=GEMINI_API_KEY)
 
