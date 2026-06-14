@@ -1,0 +1,6 @@
+﻿match_status,count,percentage
+Semantic Match,89,0.424
+Exact/Semantic Match,41,0.195
+Partial Match,41,0.195
+Missing,21,0.1
+Covered by General Skill,18,0.086
