@@ -23,8 +23,5 @@ An AI-based framework for extracting educational skills from Arabic mathematics 
 Coverage: 70.48%
 Curriculum Completeness Index (CCI): 80.2%
 
-## Citation
 
-@article{wahba2026,
-...
 }
